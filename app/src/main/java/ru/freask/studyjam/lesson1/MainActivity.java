@@ -8,7 +8,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 /*
-*  LESSON 1
+*  LESSON1
 * */
 
 public class MainActivity extends ActionBarActivity implements View.OnClickListener {
