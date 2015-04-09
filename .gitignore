@@ -25,12 +25,5 @@ proguard/
 .idea/workspace.xml
 .idea/libraries
 
-# Mac
-.DS_Store
-
-# Maven
-log/
-target/
-
 # private API keys for release builds
 src/main/res/values-v1/keys.xml
